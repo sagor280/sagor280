@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1793331782047105025/1763552845/1500x500" width="100%" />
+  <img src="https://pbs.twimg.com/profile_banners/1793331782047105025/1767264472/1500x500" width="100%" />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Sagor Kumar</h1>
 <h3 align="center">Full-Stack Web Developer (MERN) | Competitive Programmer</h3>
