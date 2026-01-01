@@ -92,13 +92,25 @@ A modern platform with clean UI & smooth navigation.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats 🔥 Contribution & 🧠 Languages
+
+<!-- Primary Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagor280&show_icons=true&count_private=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagor280&layout=compact&theme=radical" width="48%" />
+  <a href="https://github.com/sagor280">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagor280&show_icons=true&theme=dark&hide_border=true" />
+  </a>
 </p>
 
-### 📈 GitHub Contributions
+<!-- Streak & Languages Side by Side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagor280&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true" width="80%" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sagor280&theme=dark&hide_border=false" />
 </p>
+
+<!-- Most Committed Language -->
+<p align="center">
+  <a href="https://github.com/sagor280">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagor280&theme=github_dark" />
+  </a>
+</p>
+
+
