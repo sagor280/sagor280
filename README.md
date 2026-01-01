@@ -44,7 +44,7 @@ A **full-stack MERN application** with a clean, smooth, and responsive UI.
 - 🔹 **Admin dashboard with search & filters**  
 - 🔹 **Scalable, production-ready architecture**  
 
-🔗 [Live Site](https://civicpulse-website.web.app) | 🔗 [GitHub Repo](YOUR-GITHUB-REPO-LINK-HERE)
+🔗 [Live Site](https://civicpulse-website.web.app)  
 
 #### 🌐 [Import Export Hub – Business Web Platform](https://chic-capybara-b293e5.netlify.app)
 A modern platform with clean UI & smooth navigation.  
@@ -53,7 +53,7 @@ A modern platform with clean UI & smooth navigation.
 - 🔹 **Reusable & scalable components**  
 - 🔹 **Performance-focused frontend**  
 
-🔗 [Live Site](https://chic-capybara-b293e5.netlify.app) | 🔗 [GitHub Repo](YOUR-GITHUB-REPO-LINK-HERE)
+🔗 [Live Site](https://chic-capybara-b293e5.netlify.app)  
 
 ---
 
